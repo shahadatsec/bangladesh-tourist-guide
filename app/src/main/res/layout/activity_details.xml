@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFF8E1"
+    tools:context=".DetailsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/coxsBazar"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:src="@drawable/noimage"
+        android:scaleType="centerCrop"
+        />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cox's Bazar"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:background="#FF8F00"
+            android:textColor="#FFFFFF"
+            android:layout_margin="16dp"
+            android:padding="12dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="#666666"
+            android:gravity="center"
+            android:layout_marginTop="12dp"
+            android:textStyle="italic"
+            android:text="World's longest sea beach."
+            />
+
+        <ImageView
+            android:id="@+id/sajekValley"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:src="@drawable/noimage"
+            android:scaleType="centerCrop"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sajek Valley"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:background="#FF8F00"
+            android:textColor="#FFFFFF"
+            android:layout_margin="16dp"
+            android:padding="12dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="#666666"
+            android:gravity="center"
+            android:layout_marginTop="12dp"
+            android:textStyle="italic"
+            android:text="Beautiful hill station with stunning clouds."
+            />
+
+        <ImageView
+            android:id="@+id/sundarBans"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:src="@drawable/noimage"
+            android:scaleType="centerCrop"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sundarbans"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:background="#FF8F00"
+            android:textColor="#FFFFFF"
+            android:layout_margin="16dp"
+            android:padding="12dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="#666666"
+            android:gravity="center"
+            android:layout_marginTop="12dp"
+            android:textStyle="italic"
+            android:text="The world's largest mangrove forest."
+            />
+
+        <ImageView
+            android:id="@+id/saintMartin"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:src="@drawable/noimage"
+            android:scaleType="centerCrop"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Saint Martin"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:background="#FF8F00"
+            android:textColor="#FFFFFF"
+            android:layout_margin="16dp"
+            android:padding="12dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="#666666"
+            android:gravity="center"
+            android:layout_marginTop="12dp"
+            android:textStyle="italic"
+            android:text="A beautiful coral island with clear blue water."
+            />
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:id="@+id/Srimangal"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:src="@drawable/noimage"
+            android:scaleType="centerCrop"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Srimangal"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:background="#FF8F00"
+            android:textColor="#FFFFFF"
+            android:layout_margin="16dp"
+            android:padding="12dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="#666666"
+            android:gravity="center"
+            android:layout_marginTop="12dp"
+            android:textStyle="italic"
+            android:text="Famous for tea gardens and natural beauty."
+            />
+    </LinearLayout>
+
+</ScrollView>

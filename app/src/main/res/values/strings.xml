@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Glide Library Practice</string>
+
+    <string name="main_act_describe">Welcome! \n
+Explore the beautiful places of Bangladesh.</string>
+
+    <string name="main_home_button">Explore Places</string>
+    <string name="main_page_description">Discover the beauty of Bangladesh.</string>
+</resources>
