@@ -33,7 +33,8 @@ A beginner Android application built with **Java**, **XML**, and **Glide**. This
 
 ### Tourist Places Screen
 
-![Image Alt](https://github.com/shahadatsec/status-nav-bar-basics-only-xml/blob/master/Screenshot%202026-07-01%20085339.png?raw=true)
+![Image Alt](https://github.com/shahadatsec/bangladesh-tourist-guide/blob/master/screenshots/Screenshot%202026-07-01%20173333.png)
+
 
 ## Learning Purpose
 
